@@ -1,6 +1,6 @@
 {
   "root": "Assignments/Unit_1/Assignment_1/",
-  "clean_urls": false,
+  "clean_urls": true,
   "routes": {
     "/**": "assignment_1_puja.html"
   }
